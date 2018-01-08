@@ -1,5 +1,7 @@
 # MIT-6.S099-Artificial-General-Intelligence-
 
+# [https://www.youtube.com/user/lexfridman/videos
+
 ## [https://agi.mit.edu/?wppb_cpm_redirect=yes
 This class takes an engineering approach to exploring possible research paths toward building human-level intelligence. The lectures will introduce our current understanding of computational intelligence and ways in which strong AI could possibly be achieved, with insights from deep learning, reinforcement learning, computational neuroscience, robotics, cognitive modeling, psychology, and more. Additional topics will include AI safety and ethics. Projects will seek to build intuition about the limitations of state-of-the-art machine learning approaches and how those limitations may be overcome. The course will include several guest talks. Listeners are welcome.
 
@@ -57,3 +59,5 @@ Previously: Google Brain, Stanford, U of Toronto
 Lecture Mon, Jan 22, 7pm Room 54-100
 Human-Centered Artificial Intelligence
 [ Slides ] - [ Lecture Video ] (Available Soon)
+
+
