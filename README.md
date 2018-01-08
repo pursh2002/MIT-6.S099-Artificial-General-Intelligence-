@@ -18,7 +18,6 @@ Most (but not all) lectures and talks will be at 7pm in Room 54-100. See below f
 
 Lecture Mon, Jan 22, 7pm Room 54-100
 Artificial General Intelligence
-[ Slides ] - [ Lecture Video ] (Available Soon)
 
 Guest Talk Tue, Jan 23, 7pm Room 54-100
 Josh Tenenbaum: Computational Cognitive Science
